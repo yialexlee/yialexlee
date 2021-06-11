@@ -23,4 +23,7 @@ Let see what I know :
 - 👯 I'm looking to collaborate on web / app outsource.
 - 📫 How to reach me: lee52934870@gmail.com
 
-[![Yi's GitHub stats](https://github-readme-stats.vercel.app/api?username=yialexlee&show_icons=true)](https://github.com/yialexlee/github-readme-stats)
+[![Yialexlee's GitHub stats](https://github-readme-stats.vercel.app/api?username=yialexlee&show_icons=true)](https://github.com/yialexlee/github-readme-stats)
+
+[site]: https://yialexlee.tk
+[HTB]: https://www.hackthebox.eu/home/users/profile/218914
