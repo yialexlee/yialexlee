@@ -1,7 +1,7 @@
 ### Hellow World, I'm Yialex Lee👋
 
 ## I am a full stack developer and also a noob hacker 🚀.
-I love playing CTF, develop web applications, building ML models and keep learninngnew thing especially about Cyber Security.
+I love playing CTF, develop web applications, building ML models and keep learninng new thing especially Cyber Security.
 
 ## Technical Proficiency
 Let see what I know :
