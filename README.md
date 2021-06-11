@@ -10,7 +10,7 @@ Let see what I know :
 - AI / ML / Data Science : Python (Tensorflow, Keras, Scikitlearn, Pandas, Flask, Pytorch, Opencv)
 - Web : Golang, Javascript, Typescript (React.js (Redux, MobX, Next.js), Node.js (Express.js, Nest.js, Apollo), React Native), Deno.js, PHP, HTML, CSS, Ruby
 - Mobile App : Dart (Flutter), Java (Kotlin)
-- Program / Software : C (My first coding language), C++, C#, Java (JavaFX), Python, Haskell, Perl 
+- Program / Software : C (My first coding language), C++, C#, Visual Basic, Java (JavaFX), Python, Haskell, Perl 
 - APIs: REST, GraphQL
 - UI: CSS, Bootstrap, Bulma, Ant Design, Chakra UI
 - Databases: PostgreSQL, MongoDB, MySQL, Redis
