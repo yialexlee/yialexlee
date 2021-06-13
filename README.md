@@ -8,7 +8,8 @@
 <h3 align="center">I am a Cyber Security lover, noob hacker, and also a developer 👨‍💻.</h3>
 <br>
 <details>
-<samp align="center">&#9776; Details</samp>
+<summary  align="center"> <samp align="center">&#9776; Details</samp></summary> 
+  ## Status Quo
 ## Technical Proficiency
 Let see what I know :
 - Security Tool : BurpSuite, Wireshark, Nessus, OllyDbg, IDA, Nmap, Ncat, Metasploit,Nikto, SQL Map, THC Hydra, John the Ripper, Aircrack-ng, Oracle Virtual Box ...
