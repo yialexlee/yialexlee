@@ -1,4 +1,4 @@
-<h1 align="center"><samp><b>Hellow World, I'm <a target="_blank" href="https://yialexlee.github.io">Yialex Lee</a👋</b></samp></h1>
+<h1 align="center"><samp><b>Hellow World, I'm <a target="_blank" href="https://yialexlee.github.io">Yialex Lee</a>👋</b></samp></h1>
   
 <p align="center">
 <a href="https://github.com/yialexlee?tab=repositories" target="_blank"><img alt="Code" src="https://img.shields.io/badge/-code-000000?style=flat-square&logo=Plex&logoColor=white"></a>
