@@ -1,6 +1,6 @@
 ### Hellow World, I'm Yialex Lee👋
 
-## I am a Cyber Security lover, noob hacker, and also a developer 🚀.
+## I am a Cyber Security lover, noob hacker, and also a developer 👨‍💻.
 I love playing CTF, develop web applications, building ML models and keep learninng new thing especially Cyber Security.
 
 ## Technical Proficiency
@@ -23,7 +23,9 @@ Let see what I know :
 - 👯 I'm looking to collaborate on web / app outsource.
 - 📫 How to reach me: lee52934870@gmail.com
 
-[![Yialexlee's GitHub stats](https://github-readme-stats.vercel.app/api?username=yialexlee&show_icons=true)](https://github.com/yialexlee/github-readme-stats)
+[![Yialexlee's GitHub stats](https://github-readme-stats.vercel.app/api?username=yialexlee&show_icons=true&count_private=true&theme=dark")](https://github.com/yialexlee/github-readme-stats)
+
+<a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yialexlee&layout=compact&theme=dark" width="50%" height="50%"></a>
 
 ## Contact & Social Media
 - Email : lee52934870@gmail.com
