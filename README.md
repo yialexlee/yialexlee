@@ -6,7 +6,9 @@
 <a href="https://github.com/kevinjycui/yialexlee" target="_blank"><img alt="GitHub hits" src="https://img.shields.io/github/last-commit/yialexlee/yialexlee?label=profile%20updated&style=flat-square"></a>
  </p>
 <h3 align="center">I am a Cyber Security lover, noob hacker, and also a developer 👨‍💻.</h3>
-
+<br>
+<details>
+<summary> <samp>&#9776; Details</samp></summary>
 ## Technical Proficiency
 Let see what I know :
 - Security Tool : BurpSuite, Wireshark, Nessus, OllyDbg, IDA, Nmap, Ncat, Metasploit,Nikto, SQL Map, THC Hydra, John the Ripper, Aircrack-ng, Oracle Virtual Box ...
@@ -39,3 +41,4 @@ Let see what I know :
 - Hack The Box : https://www.hackthebox.eu/home/users/profile/218914
 - CTFTime  : https://ctftime.org/user/69147
 - FB : https://www.facebook.com/profile.php?id=100008610135610
+</details>
