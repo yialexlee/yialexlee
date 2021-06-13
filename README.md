@@ -1,6 +1,7 @@
 <h3 align="center"><samp><b><a target="_blank" href="https://yialexlee.github.io">Hellow World, I'm Yialex Lee👋</a</b></samp></h3>
 
-  <details>
+  
+<details align="center">
    <summary> <samp>&#9776; Details</samp></summary>
 ## I am a Cyber Security lover, noob hacker, and also a developer 👨‍💻.
 I love playing CTF, develop web applications, building ML models and keep learninng new thing especially Cyber Security.
