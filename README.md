@@ -13,7 +13,6 @@
   
   
 ## Technical Proficiency
-Let see what I know :
 - Security Tool : BurpSuite, Wireshark, Nessus, OllyDbg, IDA, Nmap, Ncat, Metasploit,Nikto, SQL Map, THC Hydra, John the Ripper, Aircrack-ng, Oracle Virtual Box ...
 - Operating System : Microsoft Windows, Kali Linux, Ubuntu, CentOS
 - AI / ML / Data Science : Python (Tensorflow, Keras, Scikitlearn, Pandas, Flask, Pytorch, Opencv)
