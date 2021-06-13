@@ -9,7 +9,6 @@
 <br>
 <details>
 <summary  align="center"> <samp align="center">&#9776; Details</samp></summary> 
-<h3 align="center">Welcome to my world</h3>
 
   
   
