@@ -26,6 +26,7 @@ Let see what I know :
 
 <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=yialexlee&show_icons=true&count_private=true&theme=dark" width="50%" height="50%">
   </a>
+  <br>
 <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yialexlee&layout=compact&theme=dark" width="50%" height="50%"></a>
 
 ## Contact & Social Media
