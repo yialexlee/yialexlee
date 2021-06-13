@@ -24,7 +24,7 @@ Let see what I know :
 - 📫 How to reach me: lee52934870@gmail.com
 
 
-<a href="#"><img src="https://github-readme-stats.vercel.app/api?username=yialexlee&show_icons=true&count_private=true&theme=dark" width="100%" height="100%">
+<a href="#"><img src="https://github-readme-stats.vercel.app/api?username=yialexlee&show_icons=true&count_private=true&theme=dark" width="50%" height="50%">
   </a>
 <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yialexlee&layout=compact&theme=dark" width="50%" height="50%"></a>
 
