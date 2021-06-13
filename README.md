@@ -5,7 +5,7 @@
 <a href="https://github.com/yialexlee" target="_blank"><img alt="yialexlee" src="https://badges.pufler.dev/visits/yialexlee/yialexlee?logo=GitHub&label=visits&color=success&logoColor=white&style=flat-square"/></a>
 <a href="https://github.com/kevinjycui/yialexlee" target="_blank"><img alt="GitHub hits" src="https://img.shields.io/github/last-commit/yialexlee/yialexlee?label=profile%20updated&style=flat-square"></a>
  </p>
-<h3 align="center">I am a Cyber Security lover, noob hacker, and also a developer 👨‍💻</h3>
+<h3 align="center">I am a Cyber Security lover, noob hacker, and also a develope</h3><h1> 👨‍💻</h1>
 
 <details>
 <summary  align="center"> <samp align="center">&#9776; Details</samp></summary> 
