@@ -1,9 +1,9 @@
 <h1 align="center"><samp><b>Hellow World, <a target="_blank" href="https://yialexlee.github.io">I'm Yialex Lee👋</a</b></samp></h1>
   
-<samp align="center">
+<p align="center">
 <a href="https://github.com/yialexlee" target="_blank"><img alt="yialexlee" src="https://badges.pufler.dev/visits/yialexlee/yialexlee?logo=GitHub&label=visits&color=success&logoColor=white&style=flat-square"/></a>
 <a href="https://github.com/kevinjycui/yialexlee" target="_blank"><img alt="GitHub hits" src="https://img.shields.io/github/last-commit/yialexlee/yialexlee?label=profile%20updated&style=flat-square"></a>
- </samp>
+ </p>
 <h3 align="center">I am a Cyber Security lover, noob hacker, and also a developer 👨‍💻.</h3>
 <p align="center">I love playing CTF, develop web applications, building ML models and keep learninng new thing especially Cyber Security.</p>
 
