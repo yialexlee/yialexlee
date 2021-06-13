@@ -9,6 +9,7 @@
 <br>
 <details>
 <summary  align="center"> <samp>&#9776; Details</samp></summary>
+  <br>
 ## Technical Proficiency
 Let see what I know :
 - Security Tool : BurpSuite, Wireshark, Nessus, OllyDbg, IDA, Nmap, Ncat, Metasploit,Nikto, SQL Map, THC Hydra, John the Ripper, Aircrack-ng, Oracle Virtual Box ...
