@@ -38,7 +38,7 @@
   <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yialexlee&layout=compact&theme=dark" width="50%" height="50%"></a>
 
 ## Contact & Social Media
-- Email : lee52934870@gmail.com
+- Email : lee52934870@gmail.com / mail@yialexlee.tech
 - Site : https://yialexlee.tech
 - Hack The Box : https://www.hackthebox.eu/home/users/profile/218914
 - CTFTime  : https://ctftime.org/user/69147
