@@ -40,7 +40,7 @@
 ## Contact & Social Media
 - Email : lee52934870@gmail.com / mail@yialexlee.tech
 - Site : https://yialexlee.tech
-- Hack The Box : https://www.hackthebox.eu/home/users/profile/218914
+- Hack The Box : https://www.hackthebox.eu/profile/218914
 - CTFTime  : https://ctftime.org/user/69147
 - FB : https://www.facebook.com/profile.php?id=100008610135610
 - Medium : https://yialexlee.medium.com
