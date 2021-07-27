@@ -36,7 +36,7 @@
   </a>
   <p> <p>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yialexlee&layout=compact&theme=dark" width="50%" height="50%"></a>
-<script src="https://www.hackthebox.eu/badge/218914"></script>
+<img src="http://www.hackthebox.eu/badge/image/218914" alt="Hack The Box">
   
 ## Contact & Social Media
 - Email : lee52934870@gmail.com / mail@yialexlee.tech
