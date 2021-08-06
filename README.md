@@ -26,9 +26,10 @@
 - Cloud: AWS (lambda), Google Cloud
 
 ## Status Quo
-- 🔭 I'm currently working as a freelance web and mobile app developer.
-- 🌱 I'm currently a Bachelor of Information Technology (Hons.) Security Technology student.
-- 👯 I'm looking to collaborate on web / app outsource.
+- 🧑‍💻 Working as a freelance web and mobile app developer.
+- 🎓 Bachelor of Information Technology (Hons.) Security Technology student.
+- 🤝 Looking to collaborate on web / app outsource.
+- 🚩 Member of CTF team [Monk On Mars](https://ctftime.org/team/141659) and Leader of [S.O.W](https://ctftime.org/team/105842) 
 - 📫 How to reach me: lee52934870@gmail.com
 <p> <p>
 <h2>Hack The Box</h2><p> <p>
