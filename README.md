@@ -16,8 +16,8 @@
 - Security Tool : BurpSuite, Wireshark, Nessus, OllyDbg, IDA, Nmap, Ncat, Metasploit,Nikto, SQL Map, THC Hydra, John the Ripper, Aircrack-ng, Oracle Virtual Box ...
 - Operating System : Microsoft Windows, Kali Linux, ,Parrot OS, Ubuntu, CentOS
 - AI / ML / Data Science : Python (Tensorflow, Keras, Scikitlearn, Pandas, Flask, Pytorch, Opencv)
-- Web : Golang, Javascript, Typescript (React.js (Redux, MobX, Next.js), Node.js (Express.js, Nest.js, Apollo), React Native), Deno.js, PHP, HTML, CSS, Ruby
-- Mobile App : Dart (Flutter), Java (Kotlin)
+- Web : Golang, Javascript, Typescript (React.js (Redux, MobX, Next.js), Node.js (Express.js, Nest.js, Apollo), React Native), Deno.js, PHP, HTML, CSS, Ruby, XML
+- Mobile App : Dart (Flutter), Java, Kotlin, XML
 - Program / Software : C (My first coding language), C++, C#, Visual Basic, Java (JavaFX), Python, Haskell, Perl 
 - APIs: REST, GraphQL
 - UI: CSS, Bootstrap, Bulma, Ant Design, Chakra UI
