@@ -21,9 +21,9 @@
 - Program / Software : C (My first coding language), C++, C#, Visual Basic, Java (JavaFX), Python, Haskell, Perl 
 - APIs: REST, GraphQL
 - UI: CSS, Bootstrap, Bulma, Ant Design, Chakra UI
-- Databases: PostgreSQL, MongoDB, MySQL, Redis
+- Databases: PostgreSQL, MongoDB, MySQL, Redis, phpMyAdmin
 - ORMs: Sequelize, TypeORM
-- Cloud: AWS (lambda), Google Cloud
+- Cloud: AWS, Google Cloud 
 
 ## Status Quo
 - 🧑‍💻 Working as a freelance web and mobile app developer.
