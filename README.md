@@ -45,7 +45,7 @@
 - Personal Webite / Websume : https://yialexlee.tech
 - Email : lee52934870@gmail.com / mail@yialexlee.tech
 - Hack The Box : https://www.hackthebox.eu/profile/218914
-- CTFTime  : https://ctftime.org/user/69147  https://ctftime.org/user/96333
+- CTFTime  : https://ctftime.org/user/69147  & https://ctftime.org/user/96333
 - FB : https://www.facebook.com/profile.php?id=100008610135610
 - Medium : https://yialexlee.medium.com
 </details>
