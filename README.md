@@ -13,7 +13,7 @@
   
   
 ## Technical Proficiency
-- Security Tool : BurpSuite, Wireshark, Nessus, OllyDbg, IDA, Nmap, Ncat, Metasploit,Nikto, SQL Map, THC Hydra, John the Ripper, Aircrack-ng, Oracle Virtual Box ...
+- Security Tool : BurpSuite, Wireshark, Nessus, OllyDbg, IDA, Nmap, Ncat, Metasploit, Cobalt Strike, Nikto, SQL Map, THC Hydra, John the Ripper, Aircrack-ng, Oracle Virtual Box ...
 - Operating System : Microsoft Windows, Kali Linux, ,Parrot OS, Ubuntu, CentOS
 - AI / ML / Data Science : Python (Tensorflow, Keras, Scikitlearn, Pandas, Flask, Pytorch, Opencv)
 - Web : Golang, Javascript, Typescript (React.js (Redux, MobX, Next.js), Node.js (Express.js, Nest.js, Apollo), React Native), Deno.js, PHP, HTML, CSS, Ruby, XML
