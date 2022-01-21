@@ -26,7 +26,7 @@
 - Cloud: AWS, Google Cloud 
 
 ## Status Quo
-- 🧑‍💻 Working as a freelance web and mobile app developer.
+- 🧑‍💻 Currently looking for intern job in IT Security related field (Malaysia).
 - 🎓 Bachelor of Information Technology (Hons.) Security Technology student.
 - 🤝 Looking to collaborate on web / app outsource.
 - 🚩 Member of CTF team [Monk On Mars](https://ctftime.org/team/141659) and Leader of [S.O.W](https://ctftime.org/team/105842) 
