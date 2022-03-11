@@ -51,4 +51,3 @@
 - FB : https://www.facebook.com/profile.php?id=100008610135610
 - Medium : https://yialexlee.medium.com
 </details>
-<h3 align="center">Currently looking for intern job in IT Security related field (Malaysia). Please contact me!!!</h3>
