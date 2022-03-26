@@ -4,8 +4,7 @@
 <a href="https://github.com/yialexlee?tab=repositories" target="_blank"><img alt="Code" src="https://img.shields.io/badge/-code-000000?style=flat-square&logo=Plex&logoColor=white"></a>
 <a href="https://github.com/yialexlee" target="_blank"><img alt="yialexlee" src="https://badges.pufler.dev/visits/yialexlee/yialexlee?logo=GitHub&label=visits&color=success&logoColor=white&style=flat-square"/></a>
 <a href="https://github.com/kevinjycui/yialexlee" target="_blank"><img alt="GitHub hits" src="https://img.shields.io/github/last-commit/yialexlee/yialexlee?label=profile%20updated&style=flat-square"></a>
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/D1D8BT7YD)
- </p>
+</p>[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/D1D8BT7YD)
 <h3 align="center">I am a Cyber Security lover, CTFer, noob hacker, and also a developer 👨‍💻</h3>
 
 <details>
