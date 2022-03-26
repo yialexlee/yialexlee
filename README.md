@@ -4,14 +4,14 @@
 <a href="https://github.com/yialexlee?tab=repositories" target="_blank"><img alt="Code" src="https://img.shields.io/badge/-code-000000?style=flat-square&logo=Plex&logoColor=white"></a>
 <a href="https://github.com/yialexlee" target="_blank"><img alt="yialexlee" src="https://badges.pufler.dev/visits/yialexlee/yialexlee?logo=GitHub&label=visits&color=success&logoColor=white&style=flat-square"/></a>
 <a href="https://github.com/kevinjycui/yialexlee" target="_blank"><img alt="GitHub hits" src="https://img.shields.io/github/last-commit/yialexlee/yialexlee?label=profile%20updated&style=flat-square"></a>
-</p>[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/D1D8BT7YD)
+</p>
 <h3 align="center">I am a Cyber Security lover, CTFer, noob hacker, and also a developer 👨‍💻</h3>
 
 <details>
 <summary  align="center"> <samp align="center">&#9776; Details</samp></summary> 
 
   
-  
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/D1D8BT7YD)  
 ## Technical Proficiency
 - Security Tool : BurpSuite, Wireshark, Nessus, OllyDbg, IDA, Nmap, Ncat, Metasploit, Cobalt Strike, Nikto, SQL Map, THC Hydra, John the Ripper, Aircrack-ng, Oracle Virtual Box ...
 - Operating System : Microsoft Windows, Kali Linux, ,Parrot OS, Ubuntu, CentOS
