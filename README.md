@@ -12,8 +12,6 @@
 
   
   
-  
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/D1D8BT7YD)  
 ## Technical Proficiency
 - Security Tool : BurpSuite, Wireshark, Nessus, OllyDbg, IDA, Nmap, Ncat, Metasploit, Cobalt Strike, Nikto, SQL Map, THC Hydra, John the Ripper, Aircrack-ng, Oracle Virtual Box ...
 - Operating System : Microsoft Windows, Kali Linux, ,Parrot OS, Ubuntu, CentOS
@@ -53,6 +51,7 @@
 - FB : https://www.facebook.com/profile.php?id=100008610135610
 - Medium : https://yialexlee.medium.com
   
-  ## Ko-fi
-  [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/D1D8BT7YD)
+  
+ ## Ko-fi
+ [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/D1D8BT7YD)
 </details>
