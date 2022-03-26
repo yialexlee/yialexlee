@@ -52,4 +52,7 @@
 - CTFTime  : https://ctftime.org/user/69147  & https://ctftime.org/user/96333
 - FB : https://www.facebook.com/profile.php?id=100008610135610
 - Medium : https://yialexlee.medium.com
+  
+  ## Ko-fi
+  [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/D1D8BT7YD)
 </details>
