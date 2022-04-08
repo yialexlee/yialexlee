@@ -43,9 +43,9 @@
   <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yialexlee&layout=compact&theme=dark" width="50%" height="50%"></a>
   <p> <p>
 <h2>Terminal Ver</h2><p> <p>
-  <div href="#">
+  
   <img align="right" src="https://metrics.lecoq.io/yialexlee?template=terminal&base.activity=0&base.community=0&config.timezone=Asia%2FKuala%20Lumpur" />
-</div>
+
 
   
 ## Contact & Social Media
