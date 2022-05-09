@@ -28,7 +28,7 @@
 ## Status Quo
 - 👨‍💻 Security Consultant Intern at FIRMUS.
 - 🎓 Currently Bachelor of Information Technology (Hons.) Security Technology student.
-- 🤝 Looking to collaborate on web / app outsource.
+- 🤝 Looking to collaborate on web / app outsource and any active CTF team.
 - 🚩 Member of CTF team [Monk On Mars](https://ctftime.org/team/141659) and Leader of [S.O.W](https://ctftime.org/team/105842) 
 - 📫 How to reach me: lee52934870@gmail.com
 <p> <p>
