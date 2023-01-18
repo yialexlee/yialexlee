@@ -38,9 +38,9 @@
   <p> <p>
   <a href="#"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yialexlee&theme=monokai"  width="60%" height="60%"></a>
   <p> <p>
-<a href="#"><img src="https://github-readme-stats.vercel.app/api?username=yialexlee&show_icons=true&count_private=true&theme=dark" width="50%" height="50%"></a>
+<a href="#"><img src="https://readme-stats.clckblog.space/api?username=yialexlee&show_icons=true&count_private=true&theme=dark" width="50%" height="50%"></a>
   <p> <p>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yialexlee&layout=compact&theme=dark" width="50%" height="50%"></a>
+  <a href="#"><img src="https://readme-stats.clckblog.space/api/top-langs/?username=yialexlee&layout=compact&theme=dark" width="50%" height="50%"></a>
   <p> <p>
   <h2>Terminal Ver</h2>
   <p> <p>
