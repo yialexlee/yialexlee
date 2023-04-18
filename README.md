@@ -27,7 +27,7 @@
 ## Status Quo
 - 👨‍💻 Ex Security Consultant Intern at FIRMUS.
 - 🎓 Currently Bachelor of Information Technology (Hons.) Security Technology student.
-- 📑 eJPTv1.0 , IBM Cybersecurity Analyst, Google IT Support and more....
+- 📑 eJPTv1.0 , IBM Cybersecurity Analyst, Google IT Support, Cisco Cybersecurity Essentials and more....
 - 🤝 Looking to collaborate on web / app outsource and any active CTF team.
 - 🚩 Member of CTF team [Team Excelsior](https://ctftime.org/team/177670) , [Monk On Mars](https://ctftime.org/team/141659) (now inactive cuz some issue) and Leader of [S.O.W](https://ctftime.org/team/105842) 
 - 📫 How to reach me: lee52934870@gmail.com
